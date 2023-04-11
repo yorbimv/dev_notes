@@ -1,5 +1,9 @@
-# dev_notes
+<div align="center">
 
-Un pequeño espacio donde agregaré algunos apuntes de las herramientas que más uso.
+# Aprendiendo desde cero      
 
-Te invito a que me ayudes a compartir tu conocimientos a este pequeño mortal
+
+</div>
+
+### Github
+- [Git desde cero ](https://github.com/yorbimv/dev_notes/tree/main/github)
