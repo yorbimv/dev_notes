@@ -166,16 +166,21 @@ Fusionar ramas
 
 
 Ver cambios antes de hacer un pull
+
 ``` git fetch --dry-run ```
 
 Ir a un cambio en específico
+
 ```git checkout id ```
 
 Ir a cierto punto del historial de la rama
+
 ```git reset —hard```
 
 Historial completo
+
 ```git reflog```
+
 ### VS Code
 
 Abrir VS desde la carpeta de terminal
@@ -186,6 +191,7 @@ Abrir VS desde la carpeta de terminal
 ### Tags
 
 Se usa para etiquetar ciertos puntos de git, normalmente se usa para especificar cada versión.
+
 ```git checkout tags/programa_v1```
 
 ### Git stash
