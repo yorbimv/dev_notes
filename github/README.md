@@ -158,7 +158,7 @@ git config user.email
 |```git branch```             |Lista de todas las branch        |```git branch```                   |
 |```git switch```             |Cambia de rama                   |```git switch main```              |
 |```git checkout'''           |Crea y cambia a una rama nueva   | ```git checkout -b ramaNueva      |
-|```git switch -c             |Crea y cambia a una rama nueva   |```git switch -c ramaNueva         |
+|```git switch -c  ```        |Crea y cambia a una rama nueva   |```git switch -c ramaNueva```      |
 |```git branch -m```          | Renombrar branch              |```git branch -m nuevoNombreBranch```|
 |```git branch -d ```         |Eliminar branch                  |```git branch -d ramaAEliminar```  |
 |```git merge```              |Fusionar ramas                   |```git merge <nombreBranch>```     |
