@@ -191,9 +191,19 @@ Abrir VS desde la carpeta de terminal
 
 ### Tags
 
-Se usa para etiquetar ciertos puntos de git, normalmente se usa para especificar cada versión.
+Los tags se usan normalmente para indicar la version
 
-```git checkout tags/programa_v1```
+Crear un tag
+
+```git tag "Nombre_de_etiqueta```
+
+Cambiar a branch con tag
+
+```git checkout tags/login_v1```
+
+Al cambiar de esta forma, podemos realizar cambios sin perjudicar la rama actual, en caso de conservar los nuevos cambios, se crea una rama nueva con 
+
+```git switch -c <nombre-de-nueva-rama>```
 
 ### Git stash
 
