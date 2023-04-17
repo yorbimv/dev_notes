@@ -162,6 +162,7 @@ git config user.email
 |```git branch -m```          |Renombrar branch                 |```git branch -m nuevoNombreBranch```|
 |```git branch -d ```         |Eliminar branch                  |```git branch -d ramaAEliminar```  |
 |```git merge```              |Fusionar ramas                   |```git merge <nombreBranch>```     |
+
 Fusionar ramas
 * Posicionarte en la rama main antes de fusionar
 
