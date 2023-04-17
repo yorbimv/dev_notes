@@ -155,11 +155,11 @@ git config user.email
 | Comando                     | Descripción                     | Ejemplo                           |
 |     :---                    |     :---                        |     :---                          | 
 |```git branch nuevaRama```   |Crea una rama nueva              |```git branch main```              |
-|```git branch```             |Lista de todas las branch        |```git branch```                   |
-|```git switch```             |Cambia de rama                   |```git switch main```              |
 |```git checkout -b```        |Crea y cambia a una rama nueva   | ```git checkout -b ramaNueva```   |
 |```git switch -c  ```        |Crea y cambia a una rama nueva   |```git switch -c ramaNueva```      |
-|```git branch -m```          | Renombrar branch              |```git branch -m nuevoNombreBranch```|
+|```git branch```             |Lista de todas las branch        |```git branch```                   |
+|```git switch```             |Cambia de rama                   |```git switch main```              |
+|```git branch -m```          |Renombrar branch                 |```git branch -m nuevoNombreBranch```|
 |```git branch -d ```         |Eliminar branch                  |```git branch -d ramaAEliminar```  |
 |```git merge```              |Fusionar ramas                   |```git merge <nombreBranch>```     |
 Fusionar ramas
