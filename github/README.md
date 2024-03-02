@@ -131,7 +131,7 @@ git config user.email
 |```git log```      |Revisar los log con información detallada        |git log|
 |```git log --graph```|Revisar los log con información detallada con gráficos||
 |```git log --graph --pretty=oneline```|Revisar los log con información detallada con gráficos, pero con menos información||
-|```git log --graph --decorate --all --online``` |Revisar los log con información completa y reducida | Se crea un alias para log ```gittree```|
+|```git log --all --graph --decorate --oneline``` |Revisar los log con información completa y reducida | Se crea un alias para log ```gittree```|
 
 
 
